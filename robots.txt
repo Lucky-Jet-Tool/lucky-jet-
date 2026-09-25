@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace with the final absolute sitemap URL after GitHub Pages is enabled.
+Sitemap: YOUR_GITHUB_PAGES_URL/sitemap.xml
